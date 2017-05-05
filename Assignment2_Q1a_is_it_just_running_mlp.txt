@@ -1,0 +1,277 @@
+Last login: Tue May  2 04:23:18 on ttys000
+Lawrence:~ ktleungaf$ cd Desktop/
+Lawrence:Desktop ktleungaf$ ls
+0.pdf
+1 Sample programs demonstrating how to use qsort : STL sort algorithm to sort objects in STL containers
+111.pages
+2 Sample programs demonstrating how to use STL algorithms
+20170409_04_use_of_command_lines_for_Git_and_Github_DeleteUndesiredFilesOnMasterBranchImplicitlyByAddingNewEmptyBranchThenMerging.pages
+20170409_04_use_of_command_lines_for_Git_and_Github_branchingAndMerging.pages
+20170410_01_use_of_command_lines_for_Git_and_Github_attempt_to_upload_Xcode_project.pages
+20170410_01_use_of_command_lines_for_Git_and_Github_attempt_to_upload_Xcode_project.rtf
+20170410_02_use_of_command_lines_for_Git_and_Github_upload_C#_software_project.pages
+20170411_01_use_of_command_lines_for_Git_and_Github_upload_Android_app_school_work_by_switching_remote_origin.pages
+20170412_01_use_of_command_lines_for_Git_and_Github_attempt_to_upload_project_3111.pages
+3111_Holiday_mode
+APPLE
+C++ Code For Algorithm
+COMP2011 Spring 2016 new programming 1
+FES.pages
+Fall 2016
+Internship-2 Application Form .docx
+JOB
+License.pdf
+Literature
+Programming2
+Screen Shot 2017-05-03 at 3.20.09 PM.png
+Spring 2016
+Spring2017
+Tensorflow
+Theano_stuff
+asgn2.pdf
+code academy programming language
+fyp group.pages
+hackust17
+winter pre study schedule.docx
+Lawrence:Desktop ktleungaf$ cd Theano_stuff/
+Lawrence:Theano_stuff ktleungaf$ cd Theano/
+Lawrence:Theano ktleungaf$ sudo pip install --user numpy scipy matplotlib
+Password:
+The directory '/Users/ktleungaf/Library/Caches/pip/http' or its parent directory is not owned by the current user and the cache has been disabled. Please check the permissions and owner of that directory. If executing pip with sudo, you may want sudo's -H flag.
+The directory '/Users/ktleungaf/Library/Caches/pip' or its parent directory is not owned by the current user and caching wheels has been disabled. check the permissions and owner of that directory. If executing pip with sudo, you may want sudo's -H flag.
+Requirement already satisfied: numpy in /Users/ktleungaf/Desktop/Theano_stuff/Anaconda/anaconda/lib/python3.6/site-packages
+Requirement already satisfied: scipy in /Users/ktleungaf/Desktop/Theano_stuff/Anaconda/anaconda/lib/python3.6/site-packages
+Requirement already satisfied: matplotlib in /Users/ktleungaf/Desktop/Theano_stuff/Anaconda/anaconda/lib/python3.6/site-packages
+Requirement already satisfied: six>=1.10 in /Users/ktleungaf/Desktop/Theano_stuff/Anaconda/anaconda/lib/python3.6/site-packages (from matplotlib)
+Requirement already satisfied: python-dateutil in /Users/ktleungaf/Desktop/Theano_stuff/Anaconda/anaconda/lib/python3.6/site-packages (from matplotlib)
+Requirement already satisfied: pytz in /Users/ktleungaf/Desktop/Theano_stuff/Anaconda/anaconda/lib/python3.6/site-packages (from matplotlib)
+Requirement already satisfied: cycler>=0.10 in /Users/ktleungaf/Desktop/Theano_stuff/Anaconda/anaconda/lib/python3.6/site-packages (from matplotlib)
+Requirement already satisfied: pyparsing!=2.0.4,!=2.1.2,!=2.1.6,>=1.5.6 in /Users/ktleungaf/Desktop/Theano_stuff/Anaconda/anaconda/lib/python3.6/site-packages (from matplotlib)
+Lawrence:Theano ktleungaf$ sudo pip install scipy
+The directory '/Users/ktleungaf/Library/Caches/pip/http' or its parent directory is not owned by the current user and the cache has been disabled. Please check the permissions and owner of that directory. If executing pip with sudo, you may want sudo's -H flag.
+The directory '/Users/ktleungaf/Library/Caches/pip' or its parent directory is not owned by the current user and caching wheels has been disabled. check the permissions and owner of that directory. If executing pip with sudo, you may want sudo's -H flag.
+Requirement already satisfied: scipy in /Users/ktleungaf/Desktop/Theano_stuff/Anaconda/anaconda/lib/python3.6/site-packages
+Lawrence:Theano ktleungaf$ sudo pip install numpy
+The directory '/Users/ktleungaf/Library/Caches/pip/http' or its parent directory is not owned by the current user and the cache has been disabled. Please check the permissions and owner of that directory. If executing pip with sudo, you may want sudo's -H flag.
+The directory '/Users/ktleungaf/Library/Caches/pip' or its parent directory is not owned by the current user and caching wheels has been disabled. check the permissions and owner of that directory. If executing pip with sudo, you may want sudo's -H flag.
+Requirement already satisfied: numpy in /Users/ktleungaf/Desktop/Theano_stuff/Anaconda/anaconda/lib/python3.6/site-packages
+Lawrence:Theano ktleungaf$ python --version
+Python 3.6.0 :: Anaconda 4.3.1 (x86_64)
+Lawrence:Theano ktleungaf$ pip install Theano
+Collecting Theano
+  Using cached Theano-0.9.0.tar.gz
+Requirement already satisfied: numpy>=1.9.1 in /Users/ktleungaf/Desktop/Theano_stuff/Anaconda/anaconda/lib/python3.6/site-packages (from Theano)
+Requirement already satisfied: scipy>=0.14 in /Users/ktleungaf/Desktop/Theano_stuff/Anaconda/anaconda/lib/python3.6/site-packages (from Theano)
+Requirement already satisfied: six>=1.9.0 in /Users/ktleungaf/Desktop/Theano_stuff/Anaconda/anaconda/lib/python3.6/site-packages (from Theano)
+Building wheels for collected packages: Theano
+  Running setup.py bdist_wheel for Theano ... done
+  Stored in directory: /Users/ktleungaf/Library/Caches/pip/wheels/d5/5b/93/433299b86e3e9b25f0f600e4e4ebf18e38eb7534ea518eba13
+Successfully built Theano
+Installing collected packages: Theano
+Successfully installed Theano-0.9.0
+Lawrence:Theano ktleungaf$ sudo pip install Theano
+Password:
+The directory '/Users/ktleungaf/Library/Caches/pip/http' or its parent directory is not owned by the current user and the cache has been disabled. Please check the permissions and owner of that directory. If executing pip with sudo, you may want sudo's -H flag.
+The directory '/Users/ktleungaf/Library/Caches/pip' or its parent directory is not owned by the current user and caching wheels has been disabled. check the permissions and owner of that directory. If executing pip with sudo, you may want sudo's -H flag.
+Requirement already satisfied: Theano in /Users/ktleungaf/Desktop/Theano_stuff/Anaconda/anaconda/lib/python3.6/site-packages
+Requirement already satisfied: numpy>=1.9.1 in /Users/ktleungaf/Desktop/Theano_stuff/Anaconda/anaconda/lib/python3.6/site-packages (from Theano)
+Requirement already satisfied: scipy>=0.14 in /Users/ktleungaf/Desktop/Theano_stuff/Anaconda/anaconda/lib/python3.6/site-packages (from Theano)
+Requirement already satisfied: six>=1.9.0 in /Users/ktleungaf/Desktop/Theano_stuff/Anaconda/anaconda/lib/python3.6/site-packages (from Theano)
+Lawrence:Theano ktleungaf$ ls
+convolutional_mlp.py	logistic_sgd.py		mlp.py
+Lawrence:Theano ktleungaf$ pip install numpy
+Requirement already satisfied: numpy in /Users/ktleungaf/Desktop/Theano_stuff/Anaconda/anaconda/lib/python3.6/site-packages
+Lawrence:Theano ktleungaf$ pip install scipy
+Requirement already satisfied: scipy in /Users/ktleungaf/Desktop/Theano_stuff/Anaconda/anaconda/lib/python3.6/site-packages
+Lawrence:Theano ktleungaf$ pip install matplotlib
+Requirement already satisfied: matplotlib in /Users/ktleungaf/Desktop/Theano_stuff/Anaconda/anaconda/lib/python3.6/site-packages
+Requirement already satisfied: numpy>=1.7.1 in /Users/ktleungaf/Desktop/Theano_stuff/Anaconda/anaconda/lib/python3.6/site-packages (from matplotlib)
+Requirement already satisfied: six>=1.10 in /Users/ktleungaf/Desktop/Theano_stuff/Anaconda/anaconda/lib/python3.6/site-packages (from matplotlib)
+Requirement already satisfied: python-dateutil in /Users/ktleungaf/Desktop/Theano_stuff/Anaconda/anaconda/lib/python3.6/site-packages (from matplotlib)
+Requirement already satisfied: pytz in /Users/ktleungaf/Desktop/Theano_stuff/Anaconda/anaconda/lib/python3.6/site-packages (from matplotlib)
+Requirement already satisfied: cycler>=0.10 in /Users/ktleungaf/Desktop/Theano_stuff/Anaconda/anaconda/lib/python3.6/site-packages (from matplotlib)
+Requirement already satisfied: pyparsing!=2.0.4,!=2.1.2,!=2.1.6,>=1.5.6 in /Users/ktleungaf/Desktop/Theano_stuff/Anaconda/anaconda/lib/python3.6/site-packages (from matplotlib)
+Lawrence:Theano ktleungaf$ ls
+convolutional_mlp.py	logistic_sgd.py		mlp.py
+Lawrence:Theano ktleungaf$ python mlp.py
+Downloading data from http://www.iro.umontreal.ca/~lisa/deep/data/mnist/mnist.pkl.gz
+... loading data
+... building the model
+... training
+epoch 1, minibatch 2500/2500, validation error 9.620000 %
+     epoch 1, minibatch 2500/2500, test error of best model 10.090000 %
+epoch 2, minibatch 2500/2500, validation error 8.610000 %
+     epoch 2, minibatch 2500/2500, test error of best model 8.740000 %
+epoch 3, minibatch 2500/2500, validation error 8.000000 %
+     epoch 3, minibatch 2500/2500, test error of best model 8.160000 %
+epoch 4, minibatch 2500/2500, validation error 7.600000 %
+     epoch 4, minibatch 2500/2500, test error of best model 7.790000 %
+epoch 5, minibatch 2500/2500, validation error 7.300000 %
+     epoch 5, minibatch 2500/2500, test error of best model 7.590000 %
+epoch 6, minibatch 2500/2500, validation error 7.020000 %
+     epoch 6, minibatch 2500/2500, test error of best model 7.200000 %
+epoch 7, minibatch 2500/2500, validation error 6.680000 %
+     epoch 7, minibatch 2500/2500, test error of best model 6.990000 %
+epoch 8, minibatch 2500/2500, validation error 6.260000 %
+     epoch 8, minibatch 2500/2500, test error of best model 6.730000 %
+epoch 9, minibatch 2500/2500, validation error 5.970000 %
+     epoch 9, minibatch 2500/2500, test error of best model 6.510000 %
+epoch 10, minibatch 2500/2500, validation error 5.740000 %
+     epoch 10, minibatch 2500/2500, test error of best model 6.190000 %
+epoch 11, minibatch 2500/2500, validation error 5.400000 %
+     epoch 11, minibatch 2500/2500, test error of best model 5.900000 %
+epoch 12, minibatch 2500/2500, validation error 5.080000 %
+     epoch 12, minibatch 2500/2500, test error of best model 5.600000 %
+epoch 13, minibatch 2500/2500, validation error 4.820000 %
+     epoch 13, minibatch 2500/2500, test error of best model 5.400000 %
+epoch 14, minibatch 2500/2500, validation error 4.690000 %
+     epoch 14, minibatch 2500/2500, test error of best model 5.280000 %
+epoch 15, minibatch 2500/2500, validation error 4.470000 %
+     epoch 15, minibatch 2500/2500, test error of best model 5.140000 %
+epoch 16, minibatch 2500/2500, validation error 4.350000 %
+     epoch 16, minibatch 2500/2500, test error of best model 4.890000 %
+epoch 17, minibatch 2500/2500, validation error 4.130000 %
+     epoch 17, minibatch 2500/2500, test error of best model 4.700000 %
+epoch 18, minibatch 2500/2500, validation error 4.040000 %
+     epoch 18, minibatch 2500/2500, test error of best model 4.540000 %
+epoch 19, minibatch 2500/2500, validation error 3.910000 %
+     epoch 19, minibatch 2500/2500, test error of best model 4.420000 %
+epoch 20, minibatch 2500/2500, validation error 3.780000 %
+     epoch 20, minibatch 2500/2500, test error of best model 4.260000 %
+epoch 21, minibatch 2500/2500, validation error 3.700000 %
+     epoch 21, minibatch 2500/2500, test error of best model 4.150000 %
+epoch 22, minibatch 2500/2500, validation error 3.610000 %
+     epoch 22, minibatch 2500/2500, test error of best model 4.000000 %
+epoch 23, minibatch 2500/2500, validation error 3.540000 %
+     epoch 23, minibatch 2500/2500, test error of best model 3.910000 %
+epoch 24, minibatch 2500/2500, validation error 3.480000 %
+     epoch 24, minibatch 2500/2500, test error of best model 3.790000 %
+epoch 25, minibatch 2500/2500, validation error 3.400000 %
+     epoch 25, minibatch 2500/2500, test error of best model 3.710000 %
+epoch 26, minibatch 2500/2500, validation error 3.350000 %
+     epoch 26, minibatch 2500/2500, test error of best model 3.650000 %
+epoch 27, minibatch 2500/2500, validation error 3.260000 %
+     epoch 27, minibatch 2500/2500, test error of best model 3.570000 %
+epoch 28, minibatch 2500/2500, validation error 3.270000 %
+epoch 29, minibatch 2500/2500, validation error 3.240000 %
+     epoch 29, minibatch 2500/2500, test error of best model 3.440000 %
+epoch 30, minibatch 2500/2500, validation error 3.190000 %
+     epoch 30, minibatch 2500/2500, test error of best model 3.370000 %
+epoch 31, minibatch 2500/2500, validation error 3.160000 %
+     epoch 31, minibatch 2500/2500, test error of best model 3.330000 %
+epoch 32, minibatch 2500/2500, validation error 3.090000 %
+     epoch 32, minibatch 2500/2500, test error of best model 3.250000 %
+epoch 33, minibatch 2500/2500, validation error 3.050000 %
+     epoch 33, minibatch 2500/2500, test error of best model 3.170000 %
+epoch 34, minibatch 2500/2500, validation error 3.030000 %
+     epoch 34, minibatch 2500/2500, test error of best model 3.160000 %
+epoch 35, minibatch 2500/2500, validation error 3.020000 %
+     epoch 35, minibatch 2500/2500, test error of best model 3.150000 %
+epoch 36, minibatch 2500/2500, validation error 2.970000 %
+     epoch 36, minibatch 2500/2500, test error of best model 3.090000 %
+epoch 37, minibatch 2500/2500, validation error 2.940000 %
+     epoch 37, minibatch 2500/2500, test error of best model 3.040000 %
+epoch 38, minibatch 2500/2500, validation error 2.910000 %
+     epoch 38, minibatch 2500/2500, test error of best model 3.000000 %
+epoch 39, minibatch 2500/2500, validation error 2.880000 %
+     epoch 39, minibatch 2500/2500, test error of best model 2.980000 %
+epoch 40, minibatch 2500/2500, validation error 2.850000 %
+     epoch 40, minibatch 2500/2500, test error of best model 2.920000 %
+epoch 41, minibatch 2500/2500, validation error 2.810000 %
+     epoch 41, minibatch 2500/2500, test error of best model 2.860000 %
+epoch 42, minibatch 2500/2500, validation error 2.800000 %
+     epoch 42, minibatch 2500/2500, test error of best model 2.840000 %
+epoch 43, minibatch 2500/2500, validation error 2.780000 %
+     epoch 43, minibatch 2500/2500, test error of best model 2.820000 %
+epoch 44, minibatch 2500/2500, validation error 2.760000 %
+     epoch 44, minibatch 2500/2500, test error of best model 2.780000 %
+epoch 45, minibatch 2500/2500, validation error 2.720000 %
+     epoch 45, minibatch 2500/2500, test error of best model 2.730000 %
+epoch 46, minibatch 2500/2500, validation error 2.680000 %
+     epoch 46, minibatch 2500/2500, test error of best model 2.720000 %
+epoch 47, minibatch 2500/2500, validation error 2.630000 %
+     epoch 47, minibatch 2500/2500, test error of best model 2.690000 %
+epoch 48, minibatch 2500/2500, validation error 2.610000 %
+     epoch 48, minibatch 2500/2500, test error of best model 2.690000 %
+epoch 49, minibatch 2500/2500, validation error 2.580000 %
+     epoch 49, minibatch 2500/2500, test error of best model 2.680000 %
+epoch 50, minibatch 2500/2500, validation error 2.560000 %
+     epoch 50, minibatch 2500/2500, test error of best model 2.630000 %
+epoch 51, minibatch 2500/2500, validation error 2.560000 %
+epoch 52, minibatch 2500/2500, validation error 2.510000 %
+     epoch 52, minibatch 2500/2500, test error of best model 2.560000 %
+epoch 53, minibatch 2500/2500, validation error 2.490000 %
+     epoch 53, minibatch 2500/2500, test error of best model 2.530000 %
+epoch 54, minibatch 2500/2500, validation error 2.490000 %
+epoch 55, minibatch 2500/2500, validation error 2.480000 %
+     epoch 55, minibatch 2500/2500, test error of best model 2.520000 %
+epoch 56, minibatch 2500/2500, validation error 2.480000 %
+epoch 57, minibatch 2500/2500, validation error 2.460000 %
+     epoch 57, minibatch 2500/2500, test error of best model 2.500000 %
+epoch 58, minibatch 2500/2500, validation error 2.450000 %
+     epoch 58, minibatch 2500/2500, test error of best model 2.460000 %
+epoch 59, minibatch 2500/2500, validation error 2.430000 %
+     epoch 59, minibatch 2500/2500, test error of best model 2.440000 %
+epoch 60, minibatch 2500/2500, validation error 2.420000 %
+     epoch 60, minibatch 2500/2500, test error of best model 2.450000 %
+epoch 61, minibatch 2500/2500, validation error 2.390000 %
+     epoch 61, minibatch 2500/2500, test error of best model 2.410000 %
+epoch 62, minibatch 2500/2500, validation error 2.400000 %
+epoch 63, minibatch 2500/2500, validation error 2.400000 %
+epoch 64, minibatch 2500/2500, validation error 2.400000 %
+epoch 65, minibatch 2500/2500, validation error 2.350000 %
+     epoch 65, minibatch 2500/2500, test error of best model 2.350000 %
+epoch 66, minibatch 2500/2500, validation error 2.350000 %
+epoch 67, minibatch 2500/2500, validation error 2.320000 %
+     epoch 67, minibatch 2500/2500, test error of best model 2.350000 %
+epoch 68, minibatch 2500/2500, validation error 2.320000 %
+epoch 69, minibatch 2500/2500, validation error 2.320000 %
+epoch 70, minibatch 2500/2500, validation error 2.300000 %
+     epoch 70, minibatch 2500/2500, test error of best model 2.330000 %
+epoch 71, minibatch 2500/2500, validation error 2.290000 %
+     epoch 71, minibatch 2500/2500, test error of best model 2.330000 %
+epoch 72, minibatch 2500/2500, validation error 2.280000 %
+     epoch 72, minibatch 2500/2500, test error of best model 2.300000 %
+epoch 73, minibatch 2500/2500, validation error 2.260000 %
+     epoch 73, minibatch 2500/2500, test error of best model 2.300000 %
+epoch 74, minibatch 2500/2500, validation error 2.250000 %
+     epoch 74, minibatch 2500/2500, test error of best model 2.300000 %
+epoch 75, minibatch 2500/2500, validation error 2.230000 %
+     epoch 75, minibatch 2500/2500, test error of best model 2.300000 %
+epoch 76, minibatch 2500/2500, validation error 2.230000 %
+epoch 77, minibatch 2500/2500, validation error 2.240000 %
+epoch 78, minibatch 2500/2500, validation error 2.250000 %
+epoch 79, minibatch 2500/2500, validation error 2.220000 %
+     epoch 79, minibatch 2500/2500, test error of best model 2.290000 %
+epoch 80, minibatch 2500/2500, validation error 2.210000 %
+     epoch 80, minibatch 2500/2500, test error of best model 2.260000 %
+epoch 81, minibatch 2500/2500, validation error 2.200000 %
+     epoch 81, minibatch 2500/2500, test error of best model 2.250000 %
+epoch 82, minibatch 2500/2500, validation error 2.190000 %
+     epoch 82, minibatch 2500/2500, test error of best model 2.240000 %
+epoch 83, minibatch 2500/2500, validation error 2.190000 %
+epoch 84, minibatch 2500/2500, validation error 2.190000 %
+epoch 85, minibatch 2500/2500, validation error 2.180000 %
+     epoch 85, minibatch 2500/2500, test error of best model 2.220000 %
+epoch 86, minibatch 2500/2500, validation error 2.180000 %
+epoch 87, minibatch 2500/2500, validation error 2.160000 %
+     epoch 87, minibatch 2500/2500, test error of best model 2.220000 %
+epoch 88, minibatch 2500/2500, validation error 2.150000 %
+     epoch 88, minibatch 2500/2500, test error of best model 2.230000 %
+epoch 89, minibatch 2500/2500, validation error 2.150000 %
+epoch 90, minibatch 2500/2500, validation error 2.160000 %
+epoch 91, minibatch 2500/2500, validation error 2.160000 %
+epoch 92, minibatch 2500/2500, validation error 2.170000 %
+epoch 93, minibatch 2500/2500, validation error 2.160000 %
+epoch 94, minibatch 2500/2500, validation error 2.160000 %
+epoch 95, minibatch 2500/2500, validation error 2.150000 %
+epoch 96, minibatch 2500/2500, validation error 2.150000 %
+epoch 97, minibatch 2500/2500, validation error 2.150000 %
+epoch 98, minibatch 2500/2500, validation error 2.140000 %
+     epoch 98, minibatch 2500/2500, test error of best model 2.190000 %
+epoch 99, minibatch 2500/2500, validation error 2.140000 %
+epoch 100, minibatch 2500/2500, validation error 2.130000 %
+     epoch 100, minibatch 2500/2500, test error of best model 2.180000 %
+Optimization complete. Best validation score of 2.130000 % obtained at iteration 250000, with test performance 2.180000 %
+The code for file mlp.py ran for 10.82m
+Lawrence:Theano ktleungaf$ 

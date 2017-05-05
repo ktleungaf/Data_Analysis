@@ -1,0 +1,94 @@
+Last login: Tue May  2 04:23:18 on ttys000
+Lawrence:~ ktleungaf$ cd Desktop/
+Lawrence:Desktop ktleungaf$ ls
+0.pdf
+1 Sample programs demonstrating how to use qsort : STL sort algorithm to sort objects in STL containers
+111.pages
+2 Sample programs demonstrating how to use STL algorithms
+20170409_04_use_of_command_lines_for_Git_and_Github_DeleteUndesiredFilesOnMasterBranchImplicitlyByAddingNewEmptyBranchThenMerging.pages
+20170409_04_use_of_command_lines_for_Git_and_Github_branchingAndMerging.pages
+20170410_01_use_of_command_lines_for_Git_and_Github_attempt_to_upload_Xcode_project.pages
+20170410_01_use_of_command_lines_for_Git_and_Github_attempt_to_upload_Xcode_project.rtf
+20170410_02_use_of_command_lines_for_Git_and_Github_upload_C#_software_project.pages
+20170411_01_use_of_command_lines_for_Git_and_Github_upload_Android_app_school_work_by_switching_remote_origin.pages
+20170412_01_use_of_command_lines_for_Git_and_Github_attempt_to_upload_project_3111.pages
+3111_Holiday_mode
+APPLE
+C++ Code For Algorithm
+COMP2011 Spring 2016 new programming 1
+FES.pages
+Fall 2016
+Internship-2 Application Form .docx
+JOB
+License.pdf
+Literature
+Programming2
+Screen Shot 2017-05-03 at 3.20.09 PM.png
+Spring 2016
+Spring2017
+Tensorflow
+Theano_stuff
+asgn2.pdf
+code academy programming language
+fyp group.pages
+hackust17
+winter pre study schedule.docx
+Lawrence:Desktop ktleungaf$ cd Theano_stuff/
+Lawrence:Theano_stuff ktleungaf$ cd Theano/
+Lawrence:Theano ktleungaf$ sudo pip install --user numpy scipy matplotlib
+Password:
+The directory '/Users/ktleungaf/Library/Caches/pip/http' or its parent directory is not owned by the current user and the cache has been disabled. Please check the permissions and owner of that directory. If executing pip with sudo, you may want sudo's -H flag.
+The directory '/Users/ktleungaf/Library/Caches/pip' or its parent directory is not owned by the current user and caching wheels has been disabled. check the permissions and owner of that directory. If executing pip with sudo, you may want sudo's -H flag.
+Requirement already satisfied: numpy in /Users/ktleungaf/Desktop/Theano_stuff/Anaconda/anaconda/lib/python3.6/site-packages
+Requirement already satisfied: scipy in /Users/ktleungaf/Desktop/Theano_stuff/Anaconda/anaconda/lib/python3.6/site-packages
+Requirement already satisfied: matplotlib in /Users/ktleungaf/Desktop/Theano_stuff/Anaconda/anaconda/lib/python3.6/site-packages
+Requirement already satisfied: six>=1.10 in /Users/ktleungaf/Desktop/Theano_stuff/Anaconda/anaconda/lib/python3.6/site-packages (from matplotlib)
+Requirement already satisfied: python-dateutil in /Users/ktleungaf/Desktop/Theano_stuff/Anaconda/anaconda/lib/python3.6/site-packages (from matplotlib)
+Requirement already satisfied: pytz in /Users/ktleungaf/Desktop/Theano_stuff/Anaconda/anaconda/lib/python3.6/site-packages (from matplotlib)
+Requirement already satisfied: cycler>=0.10 in /Users/ktleungaf/Desktop/Theano_stuff/Anaconda/anaconda/lib/python3.6/site-packages (from matplotlib)
+Requirement already satisfied: pyparsing!=2.0.4,!=2.1.2,!=2.1.6,>=1.5.6 in /Users/ktleungaf/Desktop/Theano_stuff/Anaconda/anaconda/lib/python3.6/site-packages (from matplotlib)
+Lawrence:Theano ktleungaf$ sudo pip install scipy
+The directory '/Users/ktleungaf/Library/Caches/pip/http' or its parent directory is not owned by the current user and the cache has been disabled. Please check the permissions and owner of that directory. If executing pip with sudo, you may want sudo's -H flag.
+The directory '/Users/ktleungaf/Library/Caches/pip' or its parent directory is not owned by the current user and caching wheels has been disabled. check the permissions and owner of that directory. If executing pip with sudo, you may want sudo's -H flag.
+Requirement already satisfied: scipy in /Users/ktleungaf/Desktop/Theano_stuff/Anaconda/anaconda/lib/python3.6/site-packages
+Lawrence:Theano ktleungaf$ sudo pip install numpy
+The directory '/Users/ktleungaf/Library/Caches/pip/http' or its parent directory is not owned by the current user and the cache has been disabled. Please check the permissions and owner of that directory. If executing pip with sudo, you may want sudo's -H flag.
+The directory '/Users/ktleungaf/Library/Caches/pip' or its parent directory is not owned by the current user and caching wheels has been disabled. check the permissions and owner of that directory. If executing pip with sudo, you may want sudo's -H flag.
+Requirement already satisfied: numpy in /Users/ktleungaf/Desktop/Theano_stuff/Anaconda/anaconda/lib/python3.6/site-packages
+Lawrence:Theano ktleungaf$ python --version
+Python 3.6.0 :: Anaconda 4.3.1 (x86_64)
+Lawrence:Theano ktleungaf$ pip install Theano
+Collecting Theano
+  Using cached Theano-0.9.0.tar.gz
+Requirement already satisfied: numpy>=1.9.1 in /Users/ktleungaf/Desktop/Theano_stuff/Anaconda/anaconda/lib/python3.6/site-packages (from Theano)
+Requirement already satisfied: scipy>=0.14 in /Users/ktleungaf/Desktop/Theano_stuff/Anaconda/anaconda/lib/python3.6/site-packages (from Theano)
+Requirement already satisfied: six>=1.9.0 in /Users/ktleungaf/Desktop/Theano_stuff/Anaconda/anaconda/lib/python3.6/site-packages (from Theano)
+Building wheels for collected packages: Theano
+  Running setup.py bdist_wheel for Theano ... done
+  Stored in directory: /Users/ktleungaf/Library/Caches/pip/wheels/d5/5b/93/433299b86e3e9b25f0f600e4e4ebf18e38eb7534ea518eba13
+Successfully built Theano
+Installing collected packages: Theano
+Successfully installed Theano-0.9.0
+Lawrence:Theano ktleungaf$ sudo pip install Theano
+Password:
+The directory '/Users/ktleungaf/Library/Caches/pip/http' or its parent directory is not owned by the current user and the cache has been disabled. Please check the permissions and owner of that directory. If executing pip with sudo, you may want sudo's -H flag.
+The directory '/Users/ktleungaf/Library/Caches/pip' or its parent directory is not owned by the current user and caching wheels has been disabled. check the permissions and owner of that directory. If executing pip with sudo, you may want sudo's -H flag.
+Requirement already satisfied: Theano in /Users/ktleungaf/Desktop/Theano_stuff/Anaconda/anaconda/lib/python3.6/site-packages
+Requirement already satisfied: numpy>=1.9.1 in /Users/ktleungaf/Desktop/Theano_stuff/Anaconda/anaconda/lib/python3.6/site-packages (from Theano)
+Requirement already satisfied: scipy>=0.14 in /Users/ktleungaf/Desktop/Theano_stuff/Anaconda/anaconda/lib/python3.6/site-packages (from Theano)
+Requirement already satisfied: six>=1.9.0 in /Users/ktleungaf/Desktop/Theano_stuff/Anaconda/anaconda/lib/python3.6/site-packages (from Theano)
+Lawrence:Theano ktleungaf$ ls
+convolutional_mlp.py	logistic_sgd.py		mlp.py
+Lawrence:Theano ktleungaf$ pip install numpy
+Requirement already satisfied: numpy in /Users/ktleungaf/Desktop/Theano_stuff/Anaconda/anaconda/lib/python3.6/site-packages
+Lawrence:Theano ktleungaf$ pip install scipy
+Requirement already satisfied: scipy in /Users/ktleungaf/Desktop/Theano_stuff/Anaconda/anaconda/lib/python3.6/site-packages
+Lawrence:Theano ktleungaf$ pip install matplotlib
+Requirement already satisfied: matplotlib in /Users/ktleungaf/Desktop/Theano_stuff/Anaconda/anaconda/lib/python3.6/site-packages
+Requirement already satisfied: numpy>=1.7.1 in /Users/ktleungaf/Desktop/Theano_stuff/Anaconda/anaconda/lib/python3.6/site-packages (from matplotlib)
+Requirement already satisfied: six>=1.10 in /Users/ktleungaf/Desktop/Theano_stuff/Anaconda/anaconda/lib/python3.6/site-packages (from matplotlib)
+Requirement already satisfied: python-dateutil in /Users/ktleungaf/Desktop/Theano_stuff/Anaconda/anaconda/lib/python3.6/site-packages (from matplotlib)
+Requirement already satisfied: pytz in /Users/ktleungaf/Desktop/Theano_stuff/Anaconda/anaconda/lib/python3.6/site-packages (from matplotlib)
+Requirement already satisfied: cycler>=0.10 in /Users/ktleungaf/Desktop/Theano_stuff/Anaconda/anaconda/lib/python3.6/site-packages (from matplotlib)
+Requirement already satisfied: pyparsing!=2.0.4,!=2.1.2,!=2.1.6,>=1.5.6 in /Users/ktleungaf/Desktop/Theano_stuff/Anaconda/anaconda/lib/python3.6/site-packages (from matplotlib)
+Lawrence:Theano ktleungaf$ 
